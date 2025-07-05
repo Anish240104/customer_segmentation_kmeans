@@ -31,7 +31,7 @@ A synthetic dataset containing the following columns:
 | `Annual Income (k$)`  | Annual income in thousands         |
 | `Spending Score (1-100)` | Spending score assigned by the business |
 
-📂 File used: [`customer_data.csv`](images/)  
+📂 File used: [`customer_data.csv`](customer_data.csv)  
 📝 Generated manually using NumPy for the project.
 
 ---
@@ -97,7 +97,7 @@ This project is licensed under the [MIT License](LICENSE).
 📍 B.Tech Student – Rajasthan Technical University  
 💼 RISE Internship Trainee – Data Science & Analytics  
 💡 Passionate about solving real-world problems using data  
-📧 Contact: anish.jhajhria@gmail.com  
+📧 Contact: anish241ajhajhria@gmail.com  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/anish-jhajhria-83b53628a)
 
 ---
@@ -109,4 +109,4 @@ Special thanks to **Tamizhan Skills** for launching the **RISE Internship Progra
 ---
 
 > 📌 Want to see the full notebook?  
-> 👉 Click here: [`customer_segmentation_kmeans.ipynb`](customer_segmentation_kmeans.ipynb)
+> 👉 Click here: [`customer_segmentation_kmeans.ipynb`](customer_segmentation.ipynb)
